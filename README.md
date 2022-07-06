@@ -1,2 +1,1 @@
-# darkwolf123
-123
+https://raw.githubusercontent.com/darkwolf3812/script-quest-1-2-3/main/.nov
